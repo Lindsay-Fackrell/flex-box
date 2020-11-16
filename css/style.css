@@ -43,6 +43,7 @@ h3{
 img{
     width: 10em;
     border: solid 1px rgb(187, 187, 187);
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.40);
 }
 
 .box{
